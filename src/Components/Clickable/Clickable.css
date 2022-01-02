@@ -1,0 +1,10 @@
+.ClickableDivStyle {
+    background-color: brown;
+    border-radius: 10px;
+    padding: 12px 36px;
+    animation: all 0,2s ease-in-out;
+}
+
+.ClickableDivStyle:hover {
+    background-color: #700;
+}
